@@ -59,7 +59,7 @@ categorical_vars:
   - smoking_status
   - stroke
   - hypertension
-  - heart_disease	
+  - heart_disease
 
 # mapeo de variables
 qual_mappings:
