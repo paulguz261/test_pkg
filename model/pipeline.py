@@ -19,7 +19,7 @@ clf_pipeline = Pipeline(
             features_to_drop=[config.model_config.temp_features]
             )
         ),
-        Mappers
+        # Mappers
         (
            "mapper_qual",
            pp.Mapper(
