@@ -10,4 +10,4 @@ strictyaml>=1.7.0,<2.0.0
 feature-engine>=1.6.1,<2.0.0
 xgboost>=2.1.2,<2.2.0
 feature_engine>=1.8.2,<1.9.0
-imblearn>=0.12.4,<0.13.0
+imbalanced-learn>=0.12.4,<0.13.0
